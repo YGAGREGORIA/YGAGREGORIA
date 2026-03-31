@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey there 👋 I'm Iga
 
-<!--
-**YGAGREGORIA/YGAGREGORIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Software Engineer based in Berlin ☀️ 
+Previously automating things at Wayfair, currently building full-stack & AI apps.
 
-Here are some ideas to get you started:
+- 🔨 I build with: Ruby · Rails · JavaScript · PostgreSQL · OpenAI · Anthropic APIs · HMTL · CSS · Wordpress
+- 🤖 Currently working on: NEW SECRET PROJECT-  a full-stack AI-powered mental health app
+- 🌍 I speak: Polish · German · English · Russian · a little Indonesian
+- 🕺 10 years competitive ballroom dancer — the discipline stuck
+- 🍜 Always on the hunt for the next great meal in Berlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Open to Software Engineering roles in Berlin or remote
+📩 iga.gregorkiewicz@gmail.com
