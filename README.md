@@ -10,4 +10,8 @@ Previously automating things at Wayfair, currently building full-stack & AI apps
 - 🍜 Always on the hunt for the next great meal in Berlin
 
 💬 Open to Software Engineering roles in Berlin or remote
+
 📩 iga.gregorkiewicz@gmail.com
+
+Lets Connect!👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/iga-gregorkiewicz/)
