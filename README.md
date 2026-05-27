@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Iga
 
-A Software Engineer based in Berlin ☀️ 
+A Product Builder and Manager based in Berlin ☀️ 
 Previously automating things at Wayfair, currently building full-stack & AI apps.
 
 - 🔨 I build with: Ruby · Rails · JavaScript · PostgreSQL · OpenAI · Anthropic APIs · HMTL · CSS · Wordpress
